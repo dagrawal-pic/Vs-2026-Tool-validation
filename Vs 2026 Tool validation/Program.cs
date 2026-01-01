@@ -51,6 +51,40 @@ namespace Vs_2026_Tool_validation
             return a + b;
         }
 
+        /// <summary>
+        /// method to multiply two number and return the sum used for unit test secenrios
+        /// </summary>
+        /// <param name="a">a</param>
+        /// <param name="b">b</param>
+        /// <returns>sum</returns>
+        public static int Multiply(int a, int b)
+        {
+            return a + b;
+        }
+
+        /// <summary>
+        /// method to divide number and return the sum used for unit test secenrios
+        /// </summary>
+        /// <param name="a">a</param>
+        /// <param name="b">b</param>
+        /// <returns>sum</returns>
+        public static int Divide(int a, int b)
+        {
+            return a + b;
+        }
+
+        /// <summary>
+        /// method to subtract two number and return the sum used for unit test secenrios
+        /// </summary>
+        /// <param name="a">a</param>
+        /// <param name="b">b</param>
+        /// <returns>sum</returns>
+        public static int Subtract(int a, int b)
+        {
+            return a + b;
+        }
+
+
         // Unused method for static code analysis
         private static void badmethod()
         {
