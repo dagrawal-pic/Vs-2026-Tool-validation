@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2E9F7A20-92AF-4BA3-9BE6-AF3C05781BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualStudio2026ToolValidation", "Vs 2026 Tool validation\VisualStudio2026ToolValidation.csproj", "{186E7F4D-D0DE-453D-A4C0-2901FC5D04A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9F7A20-92AF-4BA3-9BE6-AF3C05781BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9F7A20-92AF-4BA3-9BE6-AF3C05781BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9F7A20-92AF-4BA3-9BE6-AF3C05781BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9F7A20-92AF-4BA3-9BE6-AF3C05781BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186E7F4D-D0DE-453D-A4C0-2901FC5D04A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186E7F4D-D0DE-453D-A4C0-2901FC5D04A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186E7F4D-D0DE-453D-A4C0-2901FC5D04A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186E7F4D-D0DE-453D-A4C0-2901FC5D04A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB68F5D-4979-409E-97D7-72ED65AB8487}
+	EndGlobalSection
+EndGlobal
